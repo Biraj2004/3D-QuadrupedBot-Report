@@ -249,7 +249,7 @@ To insert high-resolution JPEGs into the blank placeholder slots in the compiled
 10. **SOUMYAJIT PANDIT** (Roll No.: 34900323052 / Reg. ID: FS08A0189)
 
 ### Faculty & Supervisors (WTL & MeitY Project Panel)
-* **Dr. PALASH DAS** — HOD, Department of Electronics and Communication Engineering, CGEC
+* **Dr. PALASH DAS** — Department of Electronics and Communication Engineering, CGEC
 * **Mrs. SUSMITA BANIK BARIK** — Project Engineer, WTL & MeitY Project
 * **Mr. ARIJIT BHUNIA** — Project Co-ordinator, WTL & MeitY Project
 * **Mr. BHASKAR MONDAL** — Faculty, WTL & MeitY Project
