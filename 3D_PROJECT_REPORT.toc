@@ -1,0 +1,51 @@
+\contentsline {section}{Certificate of Approval}{i}{Doc-Start}%
+\contentsline {section}{Acknowledgement}{iii}{Item.10}%
+\contentsline {section}{\numberline {1}3D Printing Process}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}What is Additive Manufacturing?}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Types of Additive Manufacturing}{1}{subsubsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.2}Subtractive Manufacturing --- A Brief Overview}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}3D File Formats}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}3D Printing Workflow}{3}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Materials Used in FDM 3D Printing}{3}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Print Parameters Comparison}{4}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Infill Patterns and Print Paths}{4}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Slicer Settings Used in This Project}{5}{subsection.1.8}%
+\contentsline {section}{\numberline {2}Objective}{7}{section.2}%
+\contentsline {section}{\numberline {3}Introduction to Quadruped Robotics}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}What is a Quadruped Robot?}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Real-World Applications}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Why ESP32?}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Additive Manufacturing Angle}{8}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Journey from Concept to Assembled Robot}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Overview of Development Phases}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Phase 1 --- Component Verification}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Phase 2 --- CAD Design}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Phase 3 --- 3D Printing}{9}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Phase 4 \& 5 --- Assembly and Standing Pose}{9}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Electronics Architecture}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Component Overview}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}ESP32 to PCA9685 I2C Connections}{10}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Servo Channel Mapping}{10}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Servo Power Rail --- Critical Discovery}{11}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Direct Servo Testing Connections}{11}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Mechanical Architecture \& CAD Design}{12}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Structural Overview}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Component Dimensions}{12}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Servo Placement --- Top View}{12}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}FreeCAD Design Workflow}{12}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Products Made (Printed Parts)}{13}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Printed Part Summary}{13}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Core Plate}{14}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Head Box}{14}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Leg Components}{14}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Arduino Programming}{14}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Development Environment}{14}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Servo Test Code}{15}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}PCA9685 I2C Scanner}{15}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}PCA9685 Servo Control}{16}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Results \& Testing}{17}{section.9}%
+\contentsline {subsection}{\numberline {9.1}I2C Communication Verification}{17}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Power Rail Diagnosis and Resolution}{17}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Individual Servo Testing Results}{17}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Development Phase Status}{18}{subsection.9.4}%
+\contentsline {section}{\numberline {10}Conclusion}{19}{section.10}%
