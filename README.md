@@ -9,7 +9,7 @@ This repository contains the LaTeX source code, compiled technical report, mecha
 ```plaintext
 3D-QuadrupedBot-Report/
 ├── 3D_PROJECT_REPORT.tex              # Full XeLaTeX report source code (uses vspace placeholders)
-├── 3D_PROJECT_REPORT.pdf              # Compiled XeLaTeX PDF report (blank slots ready for images)
+├── 3D_REPORT-FINAL.pdf              # Compiled XeLaTeX PDF report (blank slots ready for images)
 ├── 3D_PROJECT_REPORT.toc              # Generated Table of Contents index file
 ├── README.md                          
 ├── build_guide/                       # Build instructions, specifications, and references
