@@ -214,7 +214,7 @@ xelatex 3D_PROJECT_REPORT.tex
 
 ### Inserting Technical Diagram Assets into the PDF
 To insert high-resolution JPEGs into the blank placeholder slots in the compiled PDF without causing compatibility errors:
-1. Open the compiled [3D_PROJECT_REPORT.pdf](3D_PROJECT_REPORT.pdf) in **Adobe Acrobat**.
+1. Open the compiled [3D_REPORT-FINAL.pdf](3D_REPORT-FINAL.pdf) in **Adobe Acrobat**.
 2. Click the **Edit PDF** tool on the right-hand panel.
 3. Select **Add Image** from the top menu toolbar.
 4. Browse and select the corresponding image from the `images/` directory per the mapping table below.
